@@ -1,0 +1,31 @@
+.table {
+  margin: 100px 10%;
+  border: 1px solid black;
+}
+
+.grayRow {
+  background-color: #dae5f9;
+  height: 50px;
+  width: 1000px;
+}
+
+.whiteRow {
+  background-color: #F4F7FC;
+  height: 50px;
+  width: 1000px;
+}
+
+.td-check {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+  margin-top: 15px;
+}
+
+.td-type {
+  width: 1500px;
+}
+
+.td-name-p {
+  margin-right: 1100px;
+}/*# sourceMappingURL=style.css.map */
